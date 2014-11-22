@@ -29,6 +29,9 @@ gem 'spring',        group: :development
 # adding foundation (similar to Bootstrap)
 gem 'foundation-rails'
 
+#use devise for management of user accounts
+gem 'devise'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
